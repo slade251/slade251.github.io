@@ -23,6 +23,8 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/battlle-128x90.png",
+    "noImageResize": "",
     "versionFirst": "4.6.5",
     "uniqCompNum": 2,
     "versionPublish": "4.6.5"
@@ -31,7 +33,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Ostmoor",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
