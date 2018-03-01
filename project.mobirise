@@ -1,0 +1,121 @@
+{
+  "settings": {
+    "name": "Site-03-01_1335",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 2,
+    "versionPublish": "4.6.5"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/wallpaper-1920x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ostmoor</span>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Together We Stand",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://discord.gg/6r4eHfY\" data-toolbar=\"-mbrBtnMove\">Discord</a>",
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screenshot-61-1920x1080.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-weight: normal;\">About Us</span>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Ostmoor is an stablished guild in the Central Region of the Life is Feudal Telmun NA server. We are a group of people who enjoy battle as well as crafting behind the safety of our walls. Since our estalishment, we been a laid back community of gamers who just want to have fun.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screenshot-73-1920x1080.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<span style=\"font-weight: normal;\">Recruitment</span>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "It does not matter if you want to get your hands dirty in the battlefield or craft behind the safety of our walls, we have a place for you. We are looking for people who just want to have fun and be part of a place they can call home.<br><br><span style=\"font-style: normal;\">Requirements</span><br><span style=\"font-style: normal;\">&nbsp; &nbsp;&nbsp;</span>○<span style=\"font-style: normal;\"> </span>Must use discord for communication<br>&nbsp; &nbsp;&nbsp;○ Mature people are welcome ( Age does not matter)<br>&nbsp; &nbsp;&nbsp;○ Contribute as &nbsp;much as you take<br>&nbsp; &nbsp;&nbsp;○ Respect other guild members<br>&nbsp; &nbsp;&nbsp;○ Enjoy Life Is Feudal!<br><br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://discord.gg/6r4eHfY\" data-toolbar=\"-mbrBtnMove\">Join Us!</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-0",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
